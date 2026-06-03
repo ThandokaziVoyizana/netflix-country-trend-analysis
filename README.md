@@ -19,5 +19,5 @@ Using Python (pandas, matplotlib), the data is cleaned, transformed, and explore
 - Python (pandas, matplotlib)
 - Jupyter Notebook
 
-## 📁 Dataset
+## Dataset
 Netflix Titles Dataset (CSV)
